@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 552ee93d0866177458c0a75ef2b9421d, type: 3}
+  m_Name: Vine4
+  m_EditorClassIdentifier: 
+  itemName: Vine4
+  ID: 14
+  price: 12
+  Stackable: 0
+  itemIcon: {fileID: 21300000, guid: ae91711667aae4440b3ad065af32aeab, type: 3}
+  prefab: {fileID: 168735035791265119, guid: 4d164ad65508d4d46afbb69f8221fd9e, type: 3}
+  type: 3

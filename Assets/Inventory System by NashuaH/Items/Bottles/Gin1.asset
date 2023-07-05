@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 552ee93d0866177458c0a75ef2b9421d, type: 3}
+  m_Name: Gin1
+  m_EditorClassIdentifier: 
+  itemName: Gin1
+  ID: 9
+  price: 20
+  Stackable: 0
+  itemIcon: {fileID: 21300000, guid: 2ad8abb3bf71d5d4cb796007728b40ff, type: 3}
+  prefab: {fileID: 3573852620597712695, guid: 501b4f1064f8b8a428f56d37d1c77b1c, type: 3}
+  type: 4
